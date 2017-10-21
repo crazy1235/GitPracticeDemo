@@ -10,5 +10,9 @@ public class Constants {
      * app版本号
      */
     public static final int APP_VERSION = 1;
+    /*
+     * 全局tag
+     */
+    public static final String TAG = "Git.demo";
 
 }
