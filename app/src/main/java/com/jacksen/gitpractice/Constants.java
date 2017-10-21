@@ -6,5 +6,9 @@ package com.jacksen.gitpractice;
 
 public class Constants {
 
+    /**
+     * app版本号
+     */
+    public static final int APP_VERSION = 1;
 
 }
