@@ -6,5 +6,6 @@ package com.jacksen.gitpractice;
 
 public class Constants {
 
-
+    public static final String TAG = "Git.demo";
+    
 }
