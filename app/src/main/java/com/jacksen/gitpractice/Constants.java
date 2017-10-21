@@ -6,6 +6,9 @@ package com.jacksen.gitpractice;
 
 public class Constants {
 
+    /**
+     * 全局tag
+     */
     public static final String TAG = "Git.demo";
-    
+
 }
