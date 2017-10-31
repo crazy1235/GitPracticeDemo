@@ -26,7 +26,7 @@ public class CustomSeekbar extends View {
     }
 
     private void init(){
-        LinearGradient linearGradient = new LinearGradient();
+//        LinearGradient linearGradient = new LinearGradient();
     }
 
     @Override
